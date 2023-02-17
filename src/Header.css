@@ -1,0 +1,9 @@
+.container{
+    display: flex;
+    background: rgb(247, 247, 247);
+}
+.container2{
+    margin-top: 33px;
+    position: relative;
+    left: 600px;
+}
